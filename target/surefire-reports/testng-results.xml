@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3794" started-at="2021-07-18T23:03:58 IST" finished-at="2021-07-18T23:04:02 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3794" started-at="2021-07-18T23:03:58 IST" finished-at="2021-07-18T23:04:02 IST">
+      <class name="automation2021.Test1">
+        <test-method status="PASS" signature="BrowserTest()[pri:0, instance:automation2021.Test1@6e6c3152]" name="BrowserTest" duration-ms="3770" started-at="2021-07-18T23:03:58 IST" finished-at="2021-07-18T23:04:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTest -->
+      </class> <!-- automation2021.Test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
